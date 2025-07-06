@@ -28,12 +28,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/my-awesome-package"
+    "url": "git@github.com:abhishekgusain07/farsight.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/my-awesome-package/issues"
+    "url": "git@github.com:abhishekgusain07/farsight.git/issues"
   },
-  "homepage": "https://github.com/yourusername/my-awesome-package#readme",
+  "homepage": "git@github.com:abhishekgusain07/farsight.git#readme",
   "peerDependencies": {
     "react": ">=16.8.0",
     "react-dom": ">=16.8.0"
